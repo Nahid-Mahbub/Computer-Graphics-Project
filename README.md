@@ -196,10 +196,10 @@ bedroom.exe
 
 ## 👤 Author
 
-**[Your Name]**
-Department of Computer Science & Engineering
-Course: Computer Graphics Lab
-
+**Nahid Mahbub**<br>
+Course: Computer Graphics Lab<br>
+Department of Computer Science & Engineering<br>
+Daffodil International University
 ---
 
 ## 📄 License
